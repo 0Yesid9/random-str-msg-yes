@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-yes",
+  "version": "1.0.0",
+  "description": "random string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0Yesid9/random-str-msg-yes.git"
+  },
+  "keywords": [],
+  "author": "Yesid Espitia <euspiritus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0Yesid9/random-str-msg-yes/issues"
+  },
+  "homepage": "https://github.com/0Yesid9/random-str-msg-yes#readme",
+  "bin": {
+    "random-str-msg-yes": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
